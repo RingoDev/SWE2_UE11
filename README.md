@@ -1,3 +1,3 @@
 # SWE2_UE11
 
-Implementation of Decorator-, Protoype- and Visitor-Patterns.
+A colorful implementation of Decorator-, Protoype- and Visitor-Patterns.
